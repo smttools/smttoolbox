@@ -5,5 +5,9 @@
 -Requires .NET Framework(4.6.1) / WIN10 (64-Bit)  
 -Nexim & Line Manager Database Integration  
 -Fully Customizable Settings   
--YouTube Installation Tutorial
+-YouTube Installation Tutorial  
 
+# Settings
+![alt text](https://raw.githubusercontent.com/smttools/smttoolbox/master/syncsettings.PNG)
+## Overview
+-Customized Server / Database / Column Information  
