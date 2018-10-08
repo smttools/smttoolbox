@@ -4,5 +4,6 @@
 -Download Latest Version  
 -Requires .NET Framework(4.6.1) / WIN10 (64-Bit)  
 -Nexim & Line Manager Database Integration  
+-Fully Customizable Settings   
 -YouTube Installation Tutorial
 
