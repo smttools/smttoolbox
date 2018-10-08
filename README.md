@@ -9,5 +9,3 @@
 
 # Settings
 ![alt text](https://raw.githubusercontent.com/smttools/smttoolbox/master/syncsettings.PNG)
-## Overview
--Customized Server / Database / Column Information  
