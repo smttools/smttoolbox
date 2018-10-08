@@ -3,6 +3,6 @@
 ## Overview
 -Download Latest Version  
 -Requires Latest .net Framework()  
--Transfer Component Quantity between Nexim & Line Manager Databases  
+-Nexim & Line Manager Database Integration  
 -YouTube Installation Tutorial
 
