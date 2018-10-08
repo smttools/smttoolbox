@@ -1,8 +1,8 @@
 # Fuji Nexim & Universal Line Manager Sync
-#### Main
+### Main
 ![alt text](https://raw.githubusercontent.com/smttools/smttoolbox/master/syncmain.PNG)
 
-#### Settings
+### Settings
 ![alt text](https://raw.githubusercontent.com/smttools/smttoolbox/master/syncsettings.PNG)
 
 ## Overview
